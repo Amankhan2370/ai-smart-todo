@@ -22,13 +22,15 @@ A sleek and minimal AI-powered To-Do web app designed with a **glassmorphism UI*
 
 ![image alt](https://github.com/Amankhan2370/ai-smart-todo/blob/10806f3946d2ca0240550b458c336d55b99dc131/main-ui.png)
 
+### 📝 Task State
+
+![image alt](https://github.com/Amankhan2370/ai-smart-todo/blob/cd463b1e1b2d50d7fc6724c930ec180fd4b69412/task-ui.png)
+
 ### ✅ Completed Task View
 
 ![image alt](https://github.com/Amankhan2370/ai-smart-todo/blob/cb3c297b5675bf17515d3d0b4b9ba47d7d768081/completed-view.png)
 
-### 📝 Empty State
 
-![image alt](https://github.com/Amankhan2370/ai-smart-todo/blob/cd463b1e1b2d50d7fc6724c930ec180fd4b69412/task-ui.png)
 
 ---
 
