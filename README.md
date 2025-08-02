@@ -28,7 +28,7 @@ A sleek and minimal AI-powered To-Do web app designed with a **glassmorphism UI*
 
 ### 📝 Empty State
 
-![Empty UI](./Screenshot%202025-08-02%20at%204.55.25 PM.png)
+![image alt](https://github.com/Amankhan2370/ai-smart-todo/blob/cd463b1e1b2d50d7fc6724c930ec180fd4b69412/task-ui.png)
 
 ---
 
